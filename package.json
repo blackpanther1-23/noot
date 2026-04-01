@@ -3,7 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "dev": "vite --open /noot_weekly_meeting_prep_2.html"
+    "dev": "vite --open /noot_weekly_meeting_prep_2.html",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "devDependencies": {
     "vite": "latest"
