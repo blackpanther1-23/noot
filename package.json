@@ -1,0 +1,11 @@
+{
+  "name": "noot",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite --open /noot_weekly_meeting_prep_2.html"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  }
+}
